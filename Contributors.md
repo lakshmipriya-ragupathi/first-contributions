@@ -685,6 +685,7 @@
 - [Ana Souza](https://github.com/analiciasouza)
 - [CJ Rieth](https://github.com/cjrieth)
 - [Johnny Eve](https://github.com/johnnyeve)
+- [Lakshmipriya Ragupathi](https://github.com/lakshmipriya-ragupathi)
 - [Pterk96](https://github.com/Pterk96)
 - [sree charan](https://github.com/sreecharan7)
 - [Emily Greason](https://github.com/greasonek)
